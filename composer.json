@@ -1,0 +1,30 @@
+{
+    "name": "me578022/simplehtmldom",
+    "description": "A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way!",
+    "keywords": [
+        "html",
+        "dom",
+        "simple"
+    ],
+    "homepage": "http://simplehtmldom.sourceforge.net/",
+    "type": "library",
+    "license": "The MIT License",
+    "authors": [
+        {
+            "name": "S.C. Chen",
+            "email": "me578022@gmail.com",
+            "homepage": "http://simplehtmldom.sourceforge.net/"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "SimpleHtmlDom": "src/"
+        },
+        "files": [
+            "src/simple_html_dom.php"
+        ]
+    }
+}
