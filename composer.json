@@ -1,6 +1,7 @@
 {
     "name": "me578022/simplehtmldom",
     "description": "A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way!",
+    "version":"v1.11",
     "keywords": [
         "html",
         "dom",
